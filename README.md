@@ -1,2 +1,15 @@
-# DES424_6622808029
-For this homework assignment, you will practice how to use Git for version control of your source code using GitHub and VSCode. After that, you will deploy your web on AWS Amplify with the code on GitHub.
+# testgit
+This is a test program for DES424 (your student ID).
+### Table of contents
+* [Required Software](#required-software)
+* [Installation](#installation)
+* [Data preparation](#data-preparation)
+* [Configuration](#configuration)
+* [Run program](#run-program)
+* [Output](#output)
+## Required Software
+* Item 1
+* Item 2
+* Item 3
+## Run Program
+* xx xxx
